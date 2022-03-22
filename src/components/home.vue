@@ -2,7 +2,7 @@
   <div class="home">
     <div class="header">
       <div class="container">
-        <span class="title"><a href="./">LE-Version</a></span>
+        <span class="title"><a href="./">D-Version</a></span>
         <span class="title-desc"> 列出开源软件的当前版本</span>
       </div>
     </div>
